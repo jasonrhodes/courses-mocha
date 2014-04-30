@@ -9,8 +9,18 @@
   "devDependencies": {
     "mocha": "~1.18.2"
   },
+  "testling": {
+    "harness": "mocha-bdd",
+    "files": "test/*.js",
+    "browsers": [
+      "ie/7..latest",
+      "chrome/latest",
+      "firefox/latest",
+      "safari/latest"
+    ]
+  },
   "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter spec"
+    "test": "./node_modules/.bin/mocha --reporter spec --ui bdd"
   },
   "author": "",
   "license": "ISC"
