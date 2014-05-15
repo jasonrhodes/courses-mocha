@@ -1,11 +1,10 @@
 var express = require("express");
 var app = express();
-var getPalette = require("./lib/getPalette");
 
 app.set('view engine', 'jade');
 
 app.get("/", function (req, res) {
-  res.render("index", { palette: getPalette() });
+  res.render("index", { palette: ["#cc7790", "#ff5512", "#75d709"] });
 });
 
-app.listen(8000);
+app.listen(9000);
