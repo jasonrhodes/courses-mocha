@@ -1,1 +1,4 @@
-{"palette":[1,2,3]}
+{
+  "something": "doesn't matter",
+  "palette":["#f933f9","#cc0033", "#a98488"]
+}

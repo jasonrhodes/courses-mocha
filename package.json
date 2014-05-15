@@ -1,8 +1,8 @@
 {
-  "name": "mochatest",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "mochacourse",
+  "version": "1.0.0",
+  "description": "Example code and repo for my Nettuts.com course: JS Unit Testing with Mocha, Chai, and Sinon ",
+  "main": "server.js",
   "dependencies": {
     "chai": "~1.9.1"
   },
@@ -23,6 +23,6 @@
   "scripts": {
     "test": "./node_modules/.bin/mocha -R list -b"
   },
-  "author": "",
+  "author": "Jason Rhodes",
   "license": "ISC"
 }
