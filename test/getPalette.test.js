@@ -3,7 +3,7 @@ var expect = require("chai").expect;
 
 describe("getPalette", function () {
 
-  it.only("should throw an error if the result is not an array", function (done) {
+  it("should throw an error if the result is not an array", function (done) {
 
     var notArray = function () {
       getPalette(process.cwd() + "/test/fixtures/config-palette-non-array.json");
