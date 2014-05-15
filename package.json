@@ -17,6 +17,7 @@
       "ie/7..latest",
       "chrome/latest",
       "firefox/latest",
+      "iphone/latest",
       "safari/latest"
     ]
   },
