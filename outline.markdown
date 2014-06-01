@@ -4,6 +4,8 @@ Course Title: JavaScript Unit Testing with Mocha, Chai, and Sinon
 
 In this course, you'll gain a basic understanding of the fundamentals of unit testing your JavaScript code using some popular testing tools. By the end of this course you should feel empowered and excited to start writing tests for all of your JavaScript code, whether it's for the server or the client.
 
+**Code Repo:** https://github.com/jasonrhodes/courses-mocha
+
 
 Getting Started
 ===============
