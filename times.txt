@@ -1,4 +1,4 @@
-01-getting-started|0:0
+01-getting-started|4:12
 02-first-test|14:6
 03-build-a-test-suite|11:4
 04-mocha-cli|5:59
@@ -13,6 +13,8 @@
 13-browser|5:3
 14-testling|9:18
 15-travisci|5:2
-16-sinon-spies|0:0
-17-sinon-mocks|0:0
-18-conclusion|0:0
+16-sinon-intro|3:30
+17-sinon-spy|6:0
+18-sinon-stub|4:35
+19-sinon-mock|6:39
+20-goodbye|1:32
