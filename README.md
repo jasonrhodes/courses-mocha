@@ -4,7 +4,7 @@ Nettuts.com course for release in summer of 2014
 
 ## NOTE
 
-If you want to see the code as it is when the course begins, switch to [the "start" branch](tree/start)
+If you want to see the code as it is when the course begins, switch to [the "start" branch](https://github.com/jasonrhodes/courses-mocha/tree/start)
 
 [![Build Status](https://travis-ci.org/jasonrhodes/courses-mocha.svg?branch=master)](https://travis-ci.org/jasonrhodes/courses-mocha)
 
